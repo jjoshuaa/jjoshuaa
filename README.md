@@ -1,3 +1,5 @@
+To see my archived projects go to  [joshuatmbarchive](https://github.com/joshuatmbarchive) 
+![chart](https://user-images.githubusercontent.com/87516124/136821381-b5b9e8ec-c7a2-403d-9a11-3ae07c93aa57.png)
 
 ```sh
 $ ### Hello !👋
@@ -16,14 +18,13 @@ $ npx @joshuat/cli
                  \::/  /       \::/  /        /:/  /       \::/  /        /:/  /   
                   \/__/         \/__/         \/__/         \/__/         \/__/    
 
-       Back-End Developer • can write some Front-End• Human-being • Freelancer by day • Super-hero Open-Sourcerer by night. • 
+Back-End Developer • can write some Front-End • Freelancer by day • Super-hero Open-Sourcerer by night • 
 ❯ 🏡 Website           (Under construction)
 ❯ 📬 Email             Joshiirat@gmail.com
 ❯ 🐦 Twitter           (under construction)
 ❯ 📱 SMS               (ohhh ohhhh still working on it)
 ❯ 🔐 PGP Key           (Nothing to see here yet)
-❯To see my archived projects go to  [joshuatmbarchive](https://github.com/joshuatmbarchive) 
-![chart](https://user-images.githubusercontent.com/87516124/136821381-b5b9e8ec-c7a2-403d-9a11-3ae07c93aa57.png)
+
 
 
 
