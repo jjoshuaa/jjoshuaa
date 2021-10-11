@@ -53,7 +53,7 @@ $ npx @joshuat/cli
 To see my archived projects go to  [joshuatmbarchive](https://github.com/joshuatmbarchive)<br>
 ![chart (1)](https://user-images.githubusercontent.com/87516124/136662868-99758af9-d7f5-4657-9b12-a43d3b188063.png)
 
-<!--# Hello !👋🏾.
+# Hello !👋🏾.
 
 My name is Joshua .
  🔭 I’m currently working on perfecting:
