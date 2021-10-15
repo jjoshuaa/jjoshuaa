@@ -25,6 +25,7 @@ Back-End Developer • can write some Front-End • Freelancer by day • Super-
 ```
 -->
 ### Hello !👋🏾
+I'm currently in hibernation working on some projects so my github will be empty till then. <br>
 To see my archived projects go to  [joshuatmbarchive](https://github.com/joshuatmbarchive) <br>
 ![chart](https://user-images.githubusercontent.com/87516124/136821381-b5b9e8ec-c7a2-403d-9a11-3ae07c93aa57.png)
 
