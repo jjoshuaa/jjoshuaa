@@ -25,7 +25,7 @@ Back-End Developer • can write some Front-End • Freelancer by day • Super-
 ```
 -->
 ### Hello !👋🏾
-I'm currently in hibernation working on some projects so my github will be empty till then. <br>
+I'm currently in hibernation 🥷🏾 🐻 working on some projects so my github will be empty till I'm finished. <br>
 To see my archived projects and other stuff go to  [my archive](https://github.com/joshuasarchive) <br>
 
 
