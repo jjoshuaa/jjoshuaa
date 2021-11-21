@@ -20,8 +20,8 @@ $ npx @joshuat/cli
 Back-End Developer • can write some Front-End • Freelancer by day • Super-hero Open-Sourcerer by night • 
 ❯ 🏡 Website           (Under construction)
 ❯ 📬 Email             Joshiirat@gmail.com
-❯ 🐦 Twitter           @Joshuattmb
-❯ 🤖 Reddit            u/joshuatmb
+❯ 💾 Github            @Jjoshuaa
+❯ 🚪 Quit
 ```
 -->
 ### Hello !👋🏾
