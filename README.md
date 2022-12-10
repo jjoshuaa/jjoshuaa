@@ -16,7 +16,7 @@ $ npx @joshuatmb/cli
                 \:\/:/  /     \:\/:/  /        /:/  /     \:\/:/  /        /:/  /  
                  \::/  /       \::/  /        /:/  /       \::/  /        /:/  /   
                   \/__/         \/__/         \/__/         \/__/         \/__/    
-            Just another slacker bringing idead to fruition :)
+            Just another slacker bringing ideas to fruition :)
  
 ❯ 🏡 Website           (Under construction)
 ❯ 📬 Email             Joshiirat@gmail.com
