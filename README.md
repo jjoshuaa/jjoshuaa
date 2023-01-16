@@ -25,7 +25,7 @@ $ npx @joshuatmb/cli
 ```
 
 ### Currently 
-In hibernation 🥷🏾 🐻 working on some projects so my github will be empty till I'm finished. <br>
+Learning python 
 To see my archived projects and other stuff go to  [my archive](https://github.com/joshuasarchive) <br>
 
 
