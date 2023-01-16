@@ -25,8 +25,8 @@ $ npx @joshuatmb/cli
 ```
 
 ### Currently 
-Learning python 
-To see my archived projects and other stuff go to  [my archive](https://github.com/joshuasarchive) <br>
+Learning python <br>
+To see my archived projects and other stuff go to  [my archive](https://github.com/joshuasarchive) (empty rn lol)<br>
 
 
 ![chart](https://user-images.githubusercontent.com/87516124/139586198-76c99755-fe07-40c7-ac3d-16620860e4dc.png)
